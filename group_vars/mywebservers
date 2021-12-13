@@ -1,3 +1,7 @@
-[mywebservers]
-172.31.33.7
-172.31.6.126
+---
+var: value
+mywebpackageonubuntu: apache2
+mywebpackageonredhat: httpd
+
+myjavaonubuntu: openjdk-8-jre
+myjavaonredhat: java-1.8.0-openjdk
