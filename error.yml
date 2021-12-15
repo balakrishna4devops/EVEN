@@ -10,7 +10,6 @@
     apt:
       name: tree
       stateeeee: present
-    ignore_errors: yes
   - name: install wget
     apt:
       name: wget
