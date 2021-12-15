@@ -9,7 +9,7 @@
   - name: install tree 
     apt:
       name: tree
-      state: present
+      stateeeee: present
   - name: install wget
     apt:
       name: wget
