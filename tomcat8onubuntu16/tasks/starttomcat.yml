@@ -10,4 +10,4 @@
   systemd: 
     state: started
     name: tomcat
-  enabled: true
+  enablead: true
